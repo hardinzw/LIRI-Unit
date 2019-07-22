@@ -1,0 +1,6 @@
+spotify-this-song,"I Want it That Way"
+
+spotify api key = b95acd679dce4bb4b95b300cbc122fa2
+virtserver.swaggerhub.com/hardinzw/liri/1.0.0
+bands in town api key = e1cc64d4-2af7-47b1-84ac-e8ae19fcc1a3
+omdb api key = 93d2b0c7
