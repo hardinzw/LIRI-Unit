@@ -6,6 +6,9 @@ var axios = require("axios");
 var Spotify = require("node-spotify-api");
 var keys = require("./keys.js");
 var spotifyKeys = new Spotify(keys.spotify);
+var logFile = "./log.text";
+var log = require('simple-node-logger').createSimpleLogger(logFile);
+    log.setLevel("all");
 
 //User Input Commands
 var userInput = process.argv;
@@ -44,13 +47,13 @@ function songInfo() {
     //Spotify API Call
     spotifyKeys.request('https://api.spotify.com/v1/search?q=track:' + songName + '&type=track&limit=10', function (error, songResponse) {
         if (error) {
-            return console.log(error);
+            return logOutput(error);
         }
-        console.log("\nSong Info:\n")
-        console.log("Artist: " + songResponse.tracks.items[0].artists[0].name);
-        console.log("Song: " + songResponse.tracks.items[0].name);
-        console.log("URL: " + songResponse.tracks.items[0].preview_url);
-        console.log("Album: " + songResponse.tracks.items[0].album.name);
+        logOutput("\nSong Info:\n")
+        logOutput("Artist: " + songResponse.tracks.items[0].artists[0].name);
+        logOutput("Song: " + songResponse.tracks.items[0].name);
+        logOutput("URL: " + songResponse.tracks.items[0].preview_url);
+        logOutput("Album: " + songResponse.tracks.items[0].album.name);
     });
 };
 
@@ -71,10 +74,10 @@ function bandInfo() {
 
     axios.get(queryURL).then(
         function (bandResponse) {
-            console.log("\nEvent Info:\n")
-            console.log("Venue: " + bandResponse.data[0].venue.name);
-            console.log("City: " + bandResponse.data[0].venue.city);
-            console.log(moment(bandResponse.data[0].datetime).format("MM/DD/YYYY"));
+            logOutput("\nEvent Info:\n")
+            logOutput("Venue: " + bandResponse.data[0].venue.name);
+            logOutput("City: " + bandResponse.data[0].venue.city);
+            logOutput(moment(bandResponse.data[0].datetime).format("MM/DD/YYYY"));
         }
     );
 };
@@ -82,44 +85,50 @@ function bandInfo() {
 //Movie Search
 function movieInfo() {
     var movieName = "";
+
     for (var i = 3; i < userInput.length; i++) {
         if (i > 3 && i < userInput.length) {
             movieName = movieName + "+" + userInput[i];
         }
         else {
             movieName += userInput[i];
-        };
+        }
 
         //Omdb API call
         var queryURL = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=93d2b0c7";
-        
+
         axios.get(queryURL).then(
             function (movieResponse) {
-                console.log("\nMovie Info:\n")
-                console.log("Title: " + movieResponse.data.Title);
-                console.log("Year: " + movieResponse.data.Year);
-                console.log("Rated: " + movieResponse.data.imdbRating);
-                console.log("Rotten Tomatoes: " + movieResponse.data.Ratings[1].Value);
-                console.log("Country: " + movieResponse.data.Country);
-                console.log("Language: " + movieResponse.data.Language);
-                console.log("Plot: " + movieResponse.data.Plot);
-                console.log("Actors: " + movieResponse.data.Actors);
+                logOutput("\nMovie Info:\n")
+                logOutput("Title: " + movieResponse.data.Title);
+                logOutput("Year: " + movieResponse.data.Year);
+                logOutput("Rated: " + movieResponse.data.imdbRating);
+                logOutput("Rotten Tomatoes: " + movieResponse.data.Ratings[1].Value);
+                logOutput("Country: " + movieResponse.data.Country);
+                logOutput("Language: " + movieResponse.data.Language);
+                logOutput("Plot: " + movieResponse.data.Plot);
+                logOutput("Actors: " + movieResponse.data.Actors);
             });
+
     };
 };
 
 //Instructional function
 function doWhat() {
-
     fs.readFile("random.txt", "utf8", function (error, data) {
         if (error) {
-            return console.log(error);
+            return logOutput(error);
         }
         var output = data.split(",");
         for (var i = 0; i < output.length; i++) {
-            console.log(output[i]);
-        }
+            logOutput(output[i]);
+        };
     });
+};
+
+//Log output to .txt file
+function logOutput(logText) {
+    log.info(logText);
 };
 
 
