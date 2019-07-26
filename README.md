@@ -34,4 +34,4 @@ node liri.js do-what-it-says
 ![img](do-what-it-says.png)
 ```
 
-*LIRI uses the npm node module, moment, and dotenv for real-time data and privacy.
+*LIRI uses npm modules, moment, and dotenv for real-time data and privacy.
