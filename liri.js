@@ -6,9 +6,7 @@ var axios = require("axios");
 var Spotify = require("node-spotify-api");
 var keys = require("./keys.js");
 var spotifyKeys = new Spotify(keys.spotify);
-var logFile = "./log.text";
-var log = require('simple-node-logger').createSimpleLogger(logFile);
-    log.setLevel("all");
+
 
 //User Input Commands
 var command = process.argv[2];
@@ -21,8 +19,7 @@ switch (command) {
 
     case "spotify-this-song":
         if (value === undefined) {
-            value = "The Sign (Ace of Base)";
-            songInfo();
+            value = "the sign ace of base";
         }
         songInfo(value);
         break;
@@ -30,7 +27,6 @@ switch (command) {
     case "movie-this":
         if (value === undefined) {
             value = "Mr. Nobody";
-            movieInfo();
         }
         movieInfo(value);
         break;
@@ -44,15 +40,15 @@ switch (command) {
 function songInfo(songName) {
 
     //Spotify API Call
-    spotifyKeys.request('https://api.spotify.com/v1/search?q=track:' + songName + '&type=track&limit=10', function (error, songResponse) {
+    spotifyKeys.request('https://api.spotify.com/v1/search?q=track:' + songName + '&type=track&limit=1', function (error, songResponse) {
         if (error) {
-            return logOutput(error);
+            return console.log(error);
         }
-        logOutput("\n\nSong Info:\n")
-        logOutput("Artist: " + songResponse.tracks.items[0].artists[0].name);
-        logOutput("Song: " + songResponse.tracks.items[0].name);
-        logOutput("URL: " + songResponse.tracks.items[0].preview_url);
-        logOutput("Album: " + songResponse.tracks.items[0].album.name);
+        console.log("\nSong Info:\n")
+        console.log("Artist: " + songResponse.tracks.items[0].artists[0].name);
+        console.log("Song: " + songResponse.tracks.items[0].name);
+        console.log("URL: " + songResponse.tracks.items[0].preview_url);
+        console.log("Album: " + songResponse.tracks.items[0].album.name);
     });
 };
 
@@ -64,14 +60,13 @@ function bandInfo(bandName) {
 
     axios.get(queryURL).then(
         function (bandResponse) {
-            logOutput("\n\nEvent Info:\n")
-            logOutput("Venue: " + bandResponse.data[0].venue.name);
-            logOutput("City: " + bandResponse.data[0].venue.city);
-            logOutput(moment(bandResponse.data[0].datetime).format("MM/DD/YYYY"));
-        }
-    );
-};
-
+            console.log("\nEvent Info:\n")
+            console.log("Venue: " + bandResponse.data[0].venue.name);
+            console.log("City: " + bandResponse.data[0].venue.city);
+            console.log(moment(bandResponse.data[0].datetime).format("MM/DD/YYYY"));
+            });
+        };
+    
 //Movie Search
 function movieInfo(movieName) {
 
@@ -80,15 +75,15 @@ function movieInfo(movieName) {
 
     axios.get(queryURL).then(
         function (movieResponse) {
-            logOutput("\n\nMovie Info:\n")
-            logOutput("Title: " + movieResponse.data.Title);
-            logOutput("Year: " + movieResponse.data.Year);
-            logOutput("Rated: " + movieResponse.data.imdbRating);
-            logOutput("Rotten Tomatoes: " + movieResponse.data.Ratings[1].Value);
-            logOutput("Country: " + movieResponse.data.Country);
-            logOutput("Language: " + movieResponse.data.Language);
-            logOutput("Plot: " + movieResponse.data.Plot);
-            logOutput("Actors: " + movieResponse.data.Actors);
+            console.log("\nMovie Info:\n")
+            console.log("Title: " + movieResponse.data.Title);
+            console.log("Year: " + movieResponse.data.Year);
+            console.log("Rated: " + movieResponse.data.imdbRating);
+            console.log("Rotten Tomatoes: " + movieResponse.data.Ratings[1].Value);
+            console.log("Country: " + movieResponse.data.Country);
+            console.log("Language: " + movieResponse.data.Language);
+            console.log("Plot: " + movieResponse.data.Plot);
+            console.log("Actors: " + movieResponse.data.Actors);
         });
     };
 
@@ -96,19 +91,15 @@ function movieInfo(movieName) {
 function doWhat() {
     fs.readFile("random.txt", "utf8", function (error, data) {
         if (error) {
-            return logOutput(error);
+            return console.log(error);
         }
         var output = data.split(",");
         for (var i = 0; i < output.length; i++) {
-            logOutput("\n" + output[i]);
+            console.log("\n" + output[i]);
         };
     });
 };
 
-//Log output to .txt file
-function logOutput(logText) {
-    log.info(logText);
-};
 
 
 

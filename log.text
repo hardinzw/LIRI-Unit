@@ -1,481 +1,257 @@
-14:04:43.265 INFO  
-Event Info:
- 
-14:04:43.482 INFO  Venue: Park MGM Las Vegas 
-14:04:43.482 INFO  City: Las Vegas 
-14:04:43.923 INFO  09/03/2019 
-14:07:23.283 INFO  
-Event Info:
- 
-14:07:23.283 INFO  Venue: Park MGM Las Vegas 
-14:07:23.283 INFO  City: Las Vegas 
-14:07:23.292 INFO  09/03/2019 
-14:08:20.676 INFO  
-Event Info:
- 
-14:08:20.676 INFO  Venue: Park MGM Las Vegas 
-14:08:20.676 INFO  City: Las Vegas 
-14:08:20.683 INFO  09/03/2019 
-14:12:34.243 INFO  
-Movie Info:
- 
-14:12:34.243 INFO  Title: Inception 
-14:12:34.244 INFO  Year: 2010 
-14:12:34.244 INFO  Rated: 8.8 
-14:12:34.244 INFO  Rotten Tomatoes: 87% 
-14:12:34.244 INFO  Country: USA, UK 
-14:12:34.244 INFO  Language: English, Japanese, French 
-14:12:34.244 INFO  Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
-14:12:34.244 INFO  Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
-14:27:44.383 INFO  
-Movie Info:
- 
-14:27:44.383 INFO  Title: undefined 
-14:27:44.383 INFO  Year: undefined 
-14:27:44.383 INFO  Rated: undefined 
-14:28:45.408 INFO  
-Movie Info:
- 
-14:28:45.408 INFO  Title: undefined 
-14:28:45.408 INFO  Year: undefined 
-14:28:45.408 INFO  Rated: undefined 
-14:30:07.442 INFO  
-Movie Info:
- 
-14:30:07.442 INFO  Title: Mr. Nobody 
-14:30:07.442 INFO  Year: 2009 
-14:30:07.442 INFO  Rated: 7.8 
-14:30:07.442 INFO  Rotten Tomatoes: 67% 
-14:30:07.442 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-14:30:07.442 INFO  Language: English, Mohawk 
-14:30:07.442 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-14:30:07.442 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-14:30:42.790 INFO  
-Movie Info:
- 
-14:30:42.790 INFO  Title: Mr. Nobody 
-14:30:42.790 INFO  Year: 2009 
-14:30:42.790 INFO  Rated: 7.8 
-14:30:42.790 INFO  Rotten Tomatoes: 67% 
-14:30:42.790 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-14:30:42.790 INFO  Language: English, Mohawk 
-14:30:42.790 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-14:30:42.790 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-14:31:28.901 INFO  
-Movie Info:
- 
-14:31:28.901 INFO  Title: Mr. Nobody 
-14:31:28.901 INFO  Year: 2009 
-14:31:28.901 INFO  Rated: 7.8 
-14:31:28.901 INFO  Rotten Tomatoes: 67% 
-14:31:28.901 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-14:31:28.901 INFO  Language: English, Mohawk 
-14:31:28.901 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-14:31:28.901 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-14:33:50.761 INFO  
-Movie Info:
- 
-14:33:50.761 INFO  Title: Mr. Nobody 
-14:33:50.761 INFO  Year: 2009 
-14:33:50.761 INFO  Rated: 7.8 
-14:33:50.761 INFO  Rotten Tomatoes: 67% 
-14:33:50.761 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-14:33:50.761 INFO  Language: English, Mohawk 
-14:33:50.761 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-14:33:50.761 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-14:34:25.667 INFO  
 
-Movie Info:
- 
-14:34:25.667 INFO  Title: Mr. Nobody 
-14:34:25.667 INFO  Year: 2009 
-14:34:25.667 INFO  Rated: 7.8 
-14:34:25.667 INFO  Rotten Tomatoes: 67% 
-14:34:25.667 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-14:34:25.667 INFO  Language: English, Mohawk 
-14:34:25.667 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-14:34:25.667 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-14:41:29.482 INFO  
-
-Movie Info:
- 
-14:41:29.482 INFO  Title: Inception 
-14:41:29.482 INFO  Year: 2010 
-14:41:29.482 INFO  Rated: 8.8 
-14:41:29.482 INFO  Rotten Tomatoes: 87% 
-14:41:29.482 INFO  Country: USA, UK 
-14:41:29.482 INFO  Language: English, Japanese, French 
-14:41:29.482 INFO  Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
-14:41:29.482 INFO  Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
-14:41:43.031 INFO  
-
-Movie Info:
- 
-14:41:43.031 INFO  Title: Mr. Nobody 
-14:41:43.031 INFO  Year: 2009 
-14:41:43.031 INFO  Rated: 7.8 
-14:41:43.031 INFO  Rotten Tomatoes: 67% 
-14:41:43.031 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-14:41:43.031 INFO  Language: English, Mohawk 
-14:41:43.031 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-14:41:43.031 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-14:43:45.144 INFO  
-spotify-this-song "I Want It That Way"
-
-concert-this "Bruno Mars"
-
-movie-this "Inception"
- 
-14:44:05.571 INFO  
-
-spotify-this-song "I Want It That Way"
-
-concert-this "Bruno Mars"
-
-movie-this "Inception"
- 
-14:47:36.775 INFO  
-
-Event Info:
- 
-14:49:39.497 INFO  
-
-Event Info:
- 
-14:50:15.909 INFO  
-
-Event Info:
- 
-14:51:20.027 INFO  
-
-Event Info:
- 
-15:33:09.137 INFO  
+16:40:51.881 INFO  
 
 Song Info:
  
-15:33:09.137 INFO  Artist: Kevtendencies 
-15:33:09.137 INFO  Song: H O T S P R I n G S 温泉 
-15:33:09.137 INFO  URL: https://p.scdn.co/mp3-preview/1e22de420c9603d404cc45cbcaf6062f39e3f4c3?cid=b95acd679dce4bb4b95b300cbc122fa2 
-15:33:09.137 INFO  Album: F L O W E R W a T E R サガ 
-15:33:09.200 INFO  
+16:40:51.881 INFO  Artist: William Ryan Fritch 
+16:40:51.882 INFO  Song: Undefined 
+16:40:51.882 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:40:51.882 INFO  Album: New Words for Old Wounds 
+16:40:51.913 INFO  
 
 Song Info:
  
-15:33:09.200 INFO  Artist: Kevtendencies 
-15:33:09.200 INFO  Song: H O T S P R I n G S 温泉 
-15:33:09.200 INFO  URL: https://p.scdn.co/mp3-preview/1e22de420c9603d404cc45cbcaf6062f39e3f4c3?cid=b95acd679dce4bb4b95b300cbc122fa2 
-15:33:09.200 INFO  Album: F L O W E R W a T E R サガ 
-15:33:47.028 INFO  
+16:40:51.913 INFO  Artist: Ace of Base 
+16:40:51.914 INFO  Song: The Sign 
+16:40:51.914 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:40:51.914 INFO  Album: The Sign (US Album) [Remastered] 
+16:41:20.471 INFO  
 
 Song Info:
  
-15:33:47.028 INFO  Artist: 永井秀和 
-15:33:47.028 INFO  Song: a m b i e n c e o f s p r i n g 
-15:33:47.029 INFO  URL: https://p.scdn.co/mp3-preview/cbdcd3a4ac1f9efddae5f64f5fadce542fc087f7?cid=b95acd679dce4bb4b95b300cbc122fa2 
-15:33:47.029 INFO  Album: first coNtact 
-15:33:47.075 INFO  
+16:41:20.471 INFO  Artist: Ace of Base 
+16:41:20.471 INFO  Song: The Sign 
+16:41:20.471 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:41:20.471 INFO  Album: The Sign (US Album) [Remastered] 
+16:41:20.503 INFO  
 
 Song Info:
  
-15:33:47.075 INFO  Artist: 永井秀和 
-15:33:47.075 INFO  Song: a m b i e n c e o f s p r i n g 
-15:33:47.076 INFO  URL: https://p.scdn.co/mp3-preview/cbdcd3a4ac1f9efddae5f64f5fadce542fc087f7?cid=b95acd679dce4bb4b95b300cbc122fa2 
-15:33:47.076 INFO  Album: first coNtact 
-15:34:34.304 INFO  
+16:41:20.503 INFO  Artist: Ace of Base 
+16:41:20.503 INFO  Song: The Sign 
+16:41:20.503 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:41:20.503 INFO  Album: The Sign (US Album) [Remastered] 
+16:42:08.922 INFO  
 
 Song Info:
  
-15:34:34.304 INFO  Artist: Nohidea 
-15:34:34.304 INFO  Song: s p r i n g (st) r o l l 
-15:34:34.304 INFO  URL: https://p.scdn.co/mp3-preview/320b3494e1bb31e0f41be62f67633efce4a340bd?cid=b95acd679dce4bb4b95b300cbc122fa2 
-15:34:34.304 INFO  Album: home movies 
-15:34:34.379 INFO  
+16:42:08.922 INFO  Artist: William Ryan Fritch 
+16:42:08.922 INFO  Song: Undefined 
+16:42:08.922 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:42:08.922 INFO  Album: New Words for Old Wounds 
+16:42:08.957 INFO  
 
 Song Info:
  
-15:34:34.379 INFO  Artist: Nohidea 
-15:34:34.379 INFO  Song: s p r i n g (st) r o l l 
-15:34:34.379 INFO  URL: https://p.scdn.co/mp3-preview/320b3494e1bb31e0f41be62f67633efce4a340bd?cid=b95acd679dce4bb4b95b300cbc122fa2 
-15:34:34.379 INFO  Album: home movies 
-15:35:29.719 INFO  
+16:42:08.957 INFO  Artist: Ace of Base 
+16:42:08.957 INFO  Song: The Sign 
+16:42:08.957 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:42:08.957 INFO  Album: The Sign (US Album) [Remastered] 
+16:42:28.520 INFO  
 
 Song Info:
  
-15:35:29.719 INFO  Artist: dane christopher 
-15:35:29.719 INFO  Song: A N T I - S O C I A L B U T T E R F L Y 
-15:35:29.719 INFO  URL: https://p.scdn.co/mp3-preview/63a37db0cd4c8143efb56d939da619df91b29b64?cid=b95acd679dce4bb4b95b300cbc122fa2 
-15:35:29.719 INFO  Album: A N T I - S O C I A L B U T T E R F L Y 
-15:37:17.512 INFO  
+16:42:28.520 INFO  Artist: William Ryan Fritch 
+16:42:28.520 INFO  Song: Undefined 
+16:42:28.520 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:42:28.520 INFO  Album: New Words for Old Wounds 
+16:42:28.555 INFO  
 
 Song Info:
  
-15:37:17.516 INFO  Cannot read property 'artists' of undefined
-{}
-TypeError: Cannot read property 'artists' of undefined
-    at C:\Users\Zachary\desktop\LIRI\liri.js:57:61
-    at C:\Users\Zachary\desktop\LIRI\node_modules\node-spotify-api\src\index.js:86:29
-    at tryCatcher (C:\Users\Zachary\desktop\LIRI\node_modules\bluebird\js\release\util.js:16:23)
-    at Promise._settlePromiseFromHandler (C:\Users\Zachary\desktop\LIRI\node_modules\bluebird\js\release\promise.js:517:31)
-    at Promise._settlePromise (C:\Users\Zachary\desktop\LIRI\node_modules\bluebird\js\release\promise.js:574:18)
-    at Promise._settlePromise0 (C:\Users\Zachary\desktop\LIRI\node_modules\bluebird\js\release\promise.js:619:10)
-    at Promise._settlePromises (C:\Users\Zachary\desktop\LIRI\node_modules\bluebird\js\release\promise.js:699:18)
-    at _drainQueueStep (C:\Users\Zachary\desktop\LIRI\node_modules\bluebird\js\release\async.js:138:12)
-    at _drainQueue (C:\Users\Zachary\desktop\LIRI\node_modules\bluebird\js\release\async.js:131:9)
-    at Async._drainQueues (C:\Users\Zachary\desktop\LIRI\node_modules\bluebird\js\release\async.js:147:5)
-    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\Zachary\desktop\LIRI\node_modules\bluebird\js\release\async.js:17:14)
-    at processImmediate (internal/timers.js:439:21) 
-15:37:33.358 INFO  
+16:42:28.555 INFO  Artist: William Ryan Fritch 
+16:42:28.555 INFO  Song: Undefined 
+16:42:28.555 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:42:28.555 INFO  Album: New Words for Old Wounds 
+16:43:14.322 INFO  
 
 Song Info:
  
-15:37:33.358 INFO  Artist: 永井秀和 
-15:37:33.358 INFO  Song: a m b i e n c e o f s p r i n g 
-15:37:33.358 INFO  URL: https://p.scdn.co/mp3-preview/cbdcd3a4ac1f9efddae5f64f5fadce542fc087f7?cid=b95acd679dce4bb4b95b300cbc122fa2 
-15:37:33.358 INFO  Album: first coNtact 
-15:37:33.373 INFO  
+16:43:14.322 INFO  Artist: William Ryan Fritch 
+16:43:14.322 INFO  Song: Undefined 
+16:43:14.322 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:43:14.328 INFO  Album: New Words for Old Wounds 
+16:43:14.374 INFO  
 
 Song Info:
  
-15:37:33.373 INFO  Artist: 永井秀和 
-15:37:33.373 INFO  Song: a m b i e n c e o f s p r i n g 
-15:37:33.373 INFO  URL: https://p.scdn.co/mp3-preview/cbdcd3a4ac1f9efddae5f64f5fadce542fc087f7?cid=b95acd679dce4bb4b95b300cbc122fa2 
-15:37:33.373 INFO  Album: first coNtact 
-15:38:06.846 INFO  
-
-Movie Info:
- 
-15:38:06.846 INFO  Title: Mr. Nobody 
-15:38:06.846 INFO  Year: 2009 
-15:38:06.846 INFO  Rated: 7.8 
-15:38:06.846 INFO  Rotten Tomatoes: 67% 
-15:38:06.846 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-15:38:06.846 INFO  Language: English, Mohawk 
-15:38:06.846 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-15:38:06.846 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-15:38:17.002 INFO  
-
-Movie Info:
- 
-15:38:17.002 INFO  Title: Inception 
-15:38:17.002 INFO  Year: 2010 
-15:38:17.002 INFO  Rated: 8.8 
-15:38:17.003 INFO  Rotten Tomatoes: 87% 
-15:38:17.003 INFO  Country: USA, UK 
-15:38:17.003 INFO  Language: English, Japanese, French 
-15:38:17.003 INFO  Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
-15:38:17.003 INFO  Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
-15:41:30.844 INFO  
-
-Event Info:
- 
-15:43:00.673 INFO  
-
-spotify-this-song "I Want It That Way"
-
-concert-this "Bruno Mars"
-
-movie-this "Inception"
- 
-15:50:19.473 INFO  
-
-Event Info:
- 
-15:51:10.360 INFO  
-
-Event Info:
- 
-16:09:02.590 INFO  
-
-Movie Info:
- 
-16:09:02.590 INFO  Title: Inception 
-16:09:02.590 INFO  Year: 2010 
-16:09:02.590 INFO  Rated: 8.8 
-16:09:02.590 INFO  Rotten Tomatoes: 87% 
-16:09:02.590 INFO  Country: USA, UK 
-16:09:02.590 INFO  Language: English, Japanese, French 
-16:09:02.590 INFO  Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
-16:09:02.590 INFO  Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
-16:11:08.354 INFO  
-
-Movie Info:
- 
-16:11:08.354 INFO  Title: Undefined 
-16:11:08.354 INFO  Year: 2006 
-16:11:08.354 INFO  Rated: 6.5 
-16:11:08.469 INFO  
-
-Movie Info:
- 
-16:11:08.469 INFO  Title: Undefined 
-16:11:08.469 INFO  Year: 2006 
-16:11:08.469 INFO  Rated: 6.5 
-16:11:33.337 INFO  
-
-Movie Info:
- 
-16:11:33.337 INFO  Title: Undefined 
-16:11:33.337 INFO  Year: 2006 
-16:11:33.337 INFO  Rated: 6.5 
-16:11:33.369 INFO  
-
-Movie Info:
- 
-16:11:33.369 INFO  Title: Undefined 
-16:11:33.369 INFO  Year: 2006 
-16:11:33.369 INFO  Rated: 6.5 
-16:11:48.129 INFO  
-
-Movie Info:
- 
-16:11:48.129 INFO  Title: Undefined 
-16:11:48.129 INFO  Year: 2006 
-16:11:48.129 INFO  Rated: 6.5 
-16:12:17.720 INFO  
-
-Movie Info:
- 
-16:12:17.720 INFO  Title: undefined 
-16:12:17.720 INFO  Year: undefined 
-16:12:17.720 INFO  Rated: undefined 
-16:12:53.649 INFO  
-
-Movie Info:
- 
-16:12:53.649 INFO  Title: Undefined 
-16:12:53.649 INFO  Year: 2006 
-16:12:53.649 INFO  Rated: 6.5 
-16:12:53.683 INFO  
-
-Movie Info:
- 
-16:12:53.683 INFO  Title: Mr. Nobody 
-16:12:53.683 INFO  Year: 2009 
-16:12:53.684 INFO  Rated: 7.8 
-16:12:53.684 INFO  Rotten Tomatoes: 67% 
-16:12:53.684 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-16:12:53.684 INFO  Language: English, Mohawk 
-16:12:53.684 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-16:12:53.684 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-16:13:08.447 INFO  
-
-Movie Info:
- 
-16:13:08.447 INFO  Title: Inception 
-16:13:08.447 INFO  Year: 2010 
-16:13:08.447 INFO  Rated: 8.8 
-16:13:08.447 INFO  Rotten Tomatoes: 87% 
-16:13:08.447 INFO  Country: USA, UK 
-16:13:08.447 INFO  Language: English, Japanese, French 
-16:13:08.447 INFO  Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
-16:13:08.447 INFO  Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
-16:13:40.673 INFO  
+16:43:14.374 INFO  Artist: Ace of Base 
+16:43:14.374 INFO  Song: The Sign 
+16:43:14.374 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:43:14.374 INFO  Album: The Sign (US Album) [Remastered] 
+16:43:37.422 INFO  
 
 Song Info:
  
-16:13:40.673 INFO  Artist: dane christopher 
-16:13:40.673 INFO  Song: A N T I - S O C I A L B U T T E R F L Y 
-16:13:40.673 INFO  URL: https://p.scdn.co/mp3-preview/63a37db0cd4c8143efb56d939da619df91b29b64?cid=b95acd679dce4bb4b95b300cbc122fa2 
-16:13:40.673 INFO  Album: A N T I - S O C I A L B U T T E R F L Y 
-16:15:16.880 INFO  Error: connect ETIMEDOUT 104.154.127.47:443
-{"name":"RequestError","message":"Error: connect ETIMEDOUT 104.154.127.47:443","cause":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"104.154.127.47","port":443},"error":{"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"104.154.127.47","port":443},"options":{"method":"POST","uri":"https://accounts.spotify.com/api/token","form":{"grant_type":"client_credentials"},"headers":{"Authorization":"Basic Yjk1YWNkNjc5ZGNlNGJiNGI5NWIzMDBjYmMxMjJmYTI6ZDVhMzY2MjY1ZDhhNDBlYjk3NjU4MGUzOTk3YmFhNWU="},"json":true,"simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false}}
-RequestError: Error: connect ETIMEDOUT 104.154.127.47:443
-    at new RequestError (C:\Users\Zachary\desktop\LIRI\node_modules\request-promise-core\lib\errors.js:14:15)
-    at Request.plumbing.callback (C:\Users\Zachary\desktop\LIRI\node_modules\request-promise-core\lib\plumbing.js:87:29)
-    at Request.RP$callback [as _callback] (C:\Users\Zachary\desktop\LIRI\node_modules\request-promise-core\lib\plumbing.js:46:31)
-    at self.callback (C:\Users\Zachary\desktop\LIRI\node_modules\request\request.js:185:22)
-    at Request.emit (events.js:196:13)
-    at Request.onRequestError (C:\Users\Zachary\desktop\LIRI\node_modules\request\request.js:881:8)
-    at ClientRequest.emit (events.js:196:13)
-    at TLSSocket.socketErrorListener (_http_client.js:402:9)
-    at TLSSocket.emit (events.js:196:13)
-    at emitErrorNT (internal/streams/destroy.js:91:8)
-    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
-    at processTicksAndRejections (internal/process/task_queues.js:83:17) 
-16:16:07.984 INFO  
+16:43:37.422 INFO  Artist: William Ryan Fritch 
+16:43:37.422 INFO  Song: Undefined 
+16:43:37.422 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:43:37.422 INFO  Album: New Words for Old Wounds 
+16:43:37.463 INFO  
 
 Song Info:
  
-16:16:07.984 INFO  Artist: Avicii 
-16:16:07.984 INFO  Song: Hold The Line (feat. A R I Z O N A) 
-16:16:07.984 INFO  URL: null 
-16:16:07.984 INFO  Album: TIM 
-16:16:24.167 INFO  
-
-Event Info:
- 
-16:16:24.168 INFO  Venue: Churchill's Pub 
-16:16:24.168 INFO  City: Miami 
-16:16:24.203 INFO  08/21/2019 
-16:16:43.120 INFO  
-
-Event Info:
- 
-16:16:43.120 INFO  Venue: Blue Ridge Rock Festival 
-16:16:43.120 INFO  City: Concord 
-16:16:43.143 INFO  09/07/2019 
-16:17:58.963 INFO  
+16:43:37.463 INFO  Artist: Ace of Base 
+16:43:37.463 INFO  Song: The Sign 
+16:43:37.463 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:43:37.463 INFO  Album: The Sign (US Album) [Remastered] 
+16:44:00.285 INFO  
 
 Song Info:
  
-16:17:58.963 INFO  Artist: Red Hot Chili Peppers 
-16:17:58.963 INFO  Song: Californication 
-16:17:58.963 INFO  URL: https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee?cid=b95acd679dce4bb4b95b300cbc122fa2 
-16:17:58.963 INFO  Album: Californication (Deluxe Edition) 
-16:18:17.788 INFO  
+16:44:00.285 INFO  Artist: Ace of Base 
+16:44:00.285 INFO  Song: The Sign 
+16:44:00.285 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:44:00.285 INFO  Album: The Sign (US Album) [Remastered] 
+16:44:00.285 INFO  
 
 Song Info:
  
-16:18:17.788 INFO  Artist: William Ryan Fritch 
-16:18:17.788 INFO  Song: Undefined 
-16:18:17.788 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
-16:18:17.788 INFO  Album: New Words for Old Wounds 
-16:18:17.828 INFO  
+16:44:00.285 INFO  Artist: William Ryan Fritch 
+16:44:00.285 INFO  Song: Undefined 
+16:44:00.285 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:44:00.285 INFO  Album: New Words for Old Wounds 
+16:45:46.738 INFO  
 
 Song Info:
  
-16:18:17.828 INFO  Artist: Boomboys 
-16:18:17.828 INFO  Song: I Saw the Sign 
-16:18:17.828 INFO  URL: https://p.scdn.co/mp3-preview/a85890a1d25345ab67b37e3e0241c152f719bf13?cid=b95acd679dce4bb4b95b300cbc122fa2 
-16:18:17.828 INFO  Album: 80s 90s Music Dance Songs: Las Mejores Canciones, Éxitos Disco Y Música De Los 90 Y 80 Para Bailar 
-16:18:50.918 INFO  
+16:45:46.738 INFO  Artist: William Ryan Fritch 
+16:45:46.738 INFO  Song: Undefined 
+16:45:46.738 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:45:46.738 INFO  Album: New Words for Old Wounds 
+16:45:46.773 INFO  
 
 Song Info:
  
-16:18:50.918 INFO  Artist: William Ryan Fritch 
-16:18:50.918 INFO  Song: Undefined 
-16:18:50.918 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
-16:18:50.918 INFO  Album: New Words for Old Wounds 
-16:18:50.968 INFO  
+16:45:46.773 INFO  Artist: Ace of Base 
+16:45:46.773 INFO  Song: The Sign 
+16:45:46.773 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:45:46.773 INFO  Album: The Sign (US Album) [Remastered] 
+16:46:15.802 INFO  
 
 Song Info:
  
-16:18:50.968 INFO  Artist: Harry Styles 
-16:18:50.968 INFO  Song: Sign of the Times 
-16:18:50.968 INFO  URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=b95acd679dce4bb4b95b300cbc122fa2 
-16:18:50.968 INFO  Album: Harry Styles 
-16:19:13.353 INFO  
+16:46:15.802 INFO  Artist: William Ryan Fritch 
+16:46:15.802 INFO  Song: Undefined 
+16:46:15.802 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:46:15.802 INFO  Album: New Words for Old Wounds 
+16:46:15.838 INFO  
 
 Song Info:
  
-16:19:13.353 INFO  Artist: William Ryan Fritch 
-16:19:13.353 INFO  Song: Undefined 
-16:19:13.353 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
-16:19:13.353 INFO  Album: New Words for Old Wounds 
-16:19:13.390 INFO  
+16:46:15.838 INFO  Artist: Ace of Base 
+16:46:15.838 INFO  Song: The Sign 
+16:46:15.838 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:46:15.838 INFO  Album: The Sign (US Album) [Remastered] 
+16:47:17.917 INFO  
 
 Song Info:
  
-16:19:13.390 INFO  Artist: Ace of Base 
-16:19:13.390 INFO  Song: The Sign 
-16:19:13.390 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
-16:19:13.390 INFO  Album: The Sign (US Album) [Remastered] 
-16:19:38.353 INFO  
+16:47:17.917 INFO  Artist: William Ryan Fritch 
+16:47:17.917 INFO  Song: Undefined 
+16:47:17.917 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:47:17.918 INFO  Album: New Words for Old Wounds 
+16:47:17.948 INFO  
 
-spotify-this-song "I Want It That Way"
-
-concert-this "Bruno Mars"
-
-movie-this "Inception"
+Song Info:
  
+16:47:17.948 INFO  Artist: Ace of Base 
+16:47:17.948 INFO  Song: The Sign 
+16:47:17.948 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:47:17.948 INFO  Album: The Sign (US Album) [Remastered] 
+16:48:03.952 INFO  
+
+Song Info:
+ 
+16:48:03.952 INFO  Artist: William Ryan Fritch 
+16:48:03.952 INFO  Song: Undefined 
+16:48:03.952 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:48:03.952 INFO  Album: New Words for Old Wounds 
+16:48:03.992 INFO  
+
+Song Info:
+ 
+16:48:03.992 INFO  Artist: Harry Styles 
+16:48:03.992 INFO  Song: Sign of the Times 
+16:48:03.992 INFO  URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:48:03.992 INFO  Album: Harry Styles 
+16:49:28.964 INFO  
+
+Song Info:
+ 
+16:49:28.965 INFO  Artist: William Ryan Fritch 
+16:49:28.965 INFO  Song: Undefined 
+16:49:28.965 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:49:28.965 INFO  Album: New Words for Old Wounds 
+16:49:28.993 INFO  
+
+Song Info:
+ 
+16:49:28.993 INFO  Artist: Ace of Base 
+16:49:28.993 INFO  Song: The Sign 
+16:49:28.993 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:49:28.993 INFO  Album: The Sign (US Album) [Remastered] 
+16:51:06.545 INFO  
+
+Song Info:
+ 
+16:51:06.546 INFO  Artist: William Ryan Fritch 
+16:51:06.546 INFO  Song: Undefined 
+16:51:06.546 INFO  URL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:51:06.546 INFO  Album: New Words for Old Wounds 
+16:51:06.578 INFO  
+
+Song Info:
+ 
+16:51:06.578 INFO  Artist: Ace of Base 
+16:51:06.578 INFO  Song: The Sign 
+16:51:06.578 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:51:06.578 INFO  Album: The Sign (US Album) [Remastered] 
+16:51:19.983 INFO  
+
+Song Info:
+ 
+16:51:19.983 INFO  Artist: Ace of Base 
+16:51:19.984 INFO  Song: The Sign 
+16:51:19.984 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:51:19.984 INFO  Album: The Sign (US Album) [Remastered] 
+16:51:20.026 INFO  
+
+Song Info:
+ 
+16:51:20.026 INFO  Artist: Ace of Base 
+16:51:20.026 INFO  Song: The Sign 
+16:51:20.026 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:51:20.026 INFO  Album: The Sign (US Album) [Remastered] 
+16:51:39.887 INFO  
+
+Song Info:
+ 
+16:51:39.887 INFO  Artist: Red Hot Chili Peppers 
+16:51:39.887 INFO  Song: Californication 
+16:51:39.887 INFO  URL: https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:51:39.887 INFO  Album: Californication (Deluxe Edition) 
+16:51:56.881 INFO  
+
+Song Info:
+ 
+16:51:56.882 INFO  Artist: Red Hot Chili Peppers 
+16:51:56.882 INFO  Song: Californication 
+16:51:56.882 INFO  URL: https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:51:56.882 INFO  Album: Californication (Deluxe Edition) 
+16:52:09.050 INFO  
+
+Song Info:
+ 
+16:52:09.050 INFO  Artist: Ace of Base 
+16:52:09.050 INFO  Song: The Sign 
+16:52:09.050 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:52:09.050 INFO  Album: The Sign (US Album) [Remastered] 
+16:53:02.711 INFO  
+
+Song Info:
+ 
+16:53:02.711 INFO  Artist: Ace of Base 
+16:53:02.711 INFO  Song: The Sign 
+16:53:02.711 INFO  URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=b95acd679dce4bb4b95b300cbc122fa2 
+16:53:02.711 INFO  Album: The Sign (US Album) [Remastered] 
