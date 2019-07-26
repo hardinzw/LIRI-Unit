@@ -7,7 +7,7 @@ such as a movie-title, both using node's process.argv.
 *Action requests include retrieving song information from Spotify API, movie information from OMDB and concert info from the Bands in Town API. Below are LIRI's action requests:
 
 ```
-// Search for song:
+// Search for song <song name is optional>:
 node liri.js spotify-this-song <song name>
 ```
 
@@ -16,10 +16,8 @@ node liri.js spotify-this-song <song name>
 node liri.js concert-this <band name>
 ```
 
-and
-
 ```
-// Search for movie:
+// Search for movie <movie name is optional>:
 node liri.js movie-this <movie name>
 ```
 
@@ -28,6 +26,7 @@ node liri.js movie-this <movie name>
 ```
 // Read from text file:
 node liri.js do-what-it-says
+```
 
 *LIRI uses the npm node module, moment, and dotenv for real-time data and privacy.
 
