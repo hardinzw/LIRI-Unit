@@ -5,12 +5,29 @@ LIRI is a Language Interpretation and Recognition Interface.
 such as a movie-title, both using node's process.argv.
 
 *Action requests include retrieving song information from Spotify API, movie information from OMDB and concert info from the Bands in Town API. Below are LIRI's action requests:
-*"spotify-this-song"
-*"concert-this"
-*"movie-this"
+
+```
+// Search for song:
+node liri.js spotify-this-song <song name>
+```
+
+```
+// Search for concert:
+node liri.js concert-this <band name>
+```
+
+and
+
+```
+// Search for movie:
+node liri.js movie-this <movie name>
+```
 
 *LIRI also calls out to a random text file that can include any action or argument. *LIRI'S action request for text file content is:
-*"do-what-it-says"
+
+```
+// Read from text file:
+node liri.js do-what-it-says
 
 *LIRI uses the npm node module, moment, and dotenv for real-time data and privacy.
 
